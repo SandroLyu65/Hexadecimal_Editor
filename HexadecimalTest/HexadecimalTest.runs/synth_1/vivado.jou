@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Dec 16 19:39:31 2021
+# Process ID: 12548
+# Current directory: C:/Users/dell/Desktop/DDC/Lab5/Final_Project/HexadecimalTest/HexadecimalTest.runs/synth_1
+# Command line: vivado.exe -log demo_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source demo_wrapper.tcl
+# Log file: C:/Users/dell/Desktop/DDC/Lab5/Final_Project/HexadecimalTest/HexadecimalTest.runs/synth_1/demo_wrapper.vds
+# Journal file: C:/Users/dell/Desktop/DDC/Lab5/Final_Project/HexadecimalTest/HexadecimalTest.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source demo_wrapper.tcl -notrace

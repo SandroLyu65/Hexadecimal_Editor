@@ -1,0 +1,8 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto b396376445dc4b128c73ddc6490df255 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot number_capture_4bit_TB_func_synth xil_defaultlib.number_capture_4bit_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3180] cannot find port 'oCursorAddr' on this module [C:/Users/dell/Desktop/DDC/HexadecimalTest/HexadecimalTest.srcs/sim_1/imports/new/number_capture_4bit_TB.v:38]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

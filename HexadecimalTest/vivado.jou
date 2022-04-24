@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Sun Mar 27 16:33:13 2022
+# Process ID: 15532
+# Current directory: C:/Users/dell/Desktop/2-1/Final Project/DDC_Verilog_FPGA/HexadecimalTest
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16840 C:\Users\dell\Desktop\2-1\Final Project\DDC_Verilog_FPGA\HexadecimalTest\HexadecimalTest.xpr
+# Log file: C:/Users/dell/Desktop/2-1/Final Project/DDC_Verilog_FPGA/HexadecimalTest/vivado.log
+# Journal file: C:/Users/dell/Desktop/2-1/Final Project/DDC_Verilog_FPGA/HexadecimalTest\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/dell/Desktop/2-1/Final Project/DDC_Verilog_FPGA/HexadecimalTest/HexadecimalTest.xpr}
+update_compile_order -fileset sources_1

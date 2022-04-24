@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../HexadecimalTest.srcs/sources_1/bd/demo/ipshared/8b3d" \
+"VGA_pattern_TB_func_synth.v" \
+"../../../../../HexadecimalTest.srcs/sources_1/imports/DDC/Lab3_2/Lab3_2.srcs/sources_1/new/VGA_pattern.v" \
+"../../../../../HexadecimalTest.srcs/sim_1/imports/new/VGA_pattern_TB.v" \
+
+# Do not sort compile order
+nosort
